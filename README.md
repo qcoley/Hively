@@ -1,7 +1,13 @@
-# Backend Server
+# Hively - Smart Home Application
+## View Statuses of Appliances, Apertures, Air Quality and Control Temperature
+![hively_dashboard](https://user-images.githubusercontent.com/49097168/235550763-a6265751-33f6-40bc-ba25-281b211c96b9.png)
+## View Monthly Reports and Edit Your Budget
+![hively_reports](https://user-images.githubusercontent.com/49097168/235550816-97a955b9-df2d-4d51-afa8-7a5cc0ff3650.png)
+## Test Appliances and Apertures and Run Event Simulations
+![hively_control](https://user-images.githubusercontent.com/49097168/235550885-bd45facd-b3ae-4499-ac6e-89290a606029.png)
 
 
-## Getting started
+# How to Run - Backend Server
 
 To get started, clone this branch then run the following commands
 
@@ -19,11 +25,9 @@ python3 manage.py runserver --noreload
 Then you can clone the 499-term-frontend and follow its setup instructions to access the app via the front end
 
 
-# Frontend Interface
+# How to Run - Frontend Interface
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
-## Getting Started
 
 First, to run the development server:
 
